@@ -1,5 +1,6 @@
 # final_project
 final project for creative coding!
+icons and graphic were not done by me, were sourced from online.
 
 ## idea:
 You are going on a picnic and need to bring some fruit with you. The fruit are hidden behind cards, and not only are fruit hidden, bombs are hidden too! Find all the fruit to bring to your picnic while avoiding the bombs. You win the game when all fruit are found and no bombs are clicked on.
