@@ -9,4 +9,4 @@
 
 - the goal of the game is to score as many points/hits as you can before the timer runs out!
 
-- ran on a server
+- ran on a server 
